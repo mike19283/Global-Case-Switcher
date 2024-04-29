@@ -34,6 +34,7 @@ namespace CAPStolower
         private void Form1_Load(object sender, EventArgs e)
         {
             thisWindow = this.Handle; /*FindWindow(null, "Case changer");*/
+            //thisWindow = FindWindow(null, null);
             hotkey = new Hotkey(thisWindow);
             hotkey.RegisterHotKeys();
         }
