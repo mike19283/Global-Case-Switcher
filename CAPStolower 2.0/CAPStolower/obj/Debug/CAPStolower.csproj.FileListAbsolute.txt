@@ -1,0 +1,336 @@
+E:\OneDrive\Documents\Visual Studio 2017\Projects\CAPStolower\CAPStolower\bin\Debug\CAPStolower.exe.config
+E:\OneDrive\Documents\Visual Studio 2017\Projects\CAPStolower\CAPStolower\bin\Debug\CAPStolower.exe
+E:\OneDrive\Documents\Visual Studio 2017\Projects\CAPStolower\CAPStolower\bin\Debug\CAPStolower.pdb
+E:\OneDrive\Documents\Visual Studio 2017\Projects\CAPStolower\CAPStolower\obj\Debug\CAPStolower.csprojResolveAssemblyReference.cache
+E:\OneDrive\Documents\Visual Studio 2017\Projects\CAPStolower\CAPStolower\obj\Debug\CAPStolower.Form1.resources
+E:\OneDrive\Documents\Visual Studio 2017\Projects\CAPStolower\CAPStolower\obj\Debug\CAPStolower.Properties.Resources.resources
+E:\OneDrive\Documents\Visual Studio 2017\Projects\CAPStolower\CAPStolower\obj\Debug\CAPStolower.csproj.GenerateResource.cache
+E:\OneDrive\Documents\Visual Studio 2017\Projects\CAPStolower\CAPStolower\obj\Debug\CAPStolower.csproj.CoreCompileInputs.cache
+E:\OneDrive\Documents\Visual Studio 2017\Projects\CAPStolower\CAPStolower\obj\Debug\CAPStolower.exe
+E:\OneDrive\Documents\Visual Studio 2017\Projects\CAPStolower\CAPStolower\obj\Debug\CAPStolower.pdb
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\CAPStolower.exe.config
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\CAPStolower.exe
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\CAPStolower.pdb
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\obj\Debug\CAPStolower.csprojResolveAssemblyReference.cache
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\obj\Debug\CAPStolower.Form1.resources
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\obj\Debug\CAPStolower.Properties.Resources.resources
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\obj\Debug\CAPStolower.csproj.GenerateResource.cache
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\obj\Debug\CAPStolower.csproj.CoreCompileInputs.cache
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\obj\Debug\CAPStolower.exe
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\obj\Debug\CAPStolower.pdb
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\netstandard.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.AppContext.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Collections.Concurrent.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Collections.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Collections.NonGeneric.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Collections.Specialized.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.ComponentModel.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.ComponentModel.Primitives.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Console.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Data.Common.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Diagnostics.Contracts.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Diagnostics.Debug.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Diagnostics.Process.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Diagnostics.Tools.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Diagnostics.Tracing.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Drawing.Primitives.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Dynamic.Runtime.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Globalization.Calendars.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Globalization.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Globalization.Extensions.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.IO.Compression.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.IO.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.IO.FileSystem.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.IO.IsolatedStorage.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.IO.Pipes.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Linq.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Linq.Expressions.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Linq.Parallel.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Linq.Queryable.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Net.Http.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Net.NameResolution.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Net.NetworkInformation.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Net.Ping.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Net.Primitives.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Net.Requests.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Net.Security.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Net.Sockets.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Net.WebSockets.Client.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Net.WebSockets.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.ObjectModel.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Reflection.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Reflection.Extensions.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Reflection.Primitives.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Resources.Reader.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Resources.ResourceManager.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Resources.Writer.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Runtime.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Runtime.Extensions.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Runtime.Handles.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Runtime.InteropServices.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Runtime.Numerics.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Security.Claims.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Security.Principal.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Security.SecureString.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Text.Encoding.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Text.RegularExpressions.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Threading.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Threading.Overlapped.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Threading.Tasks.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Threading.Thread.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Threading.ThreadPool.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Threading.Timer.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.ValueTuple.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Xml.ReaderWriter.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Xml.XDocument.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Xml.XmlDocument.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Xml.XmlSerializer.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Xml.XPath.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\bin\Debug\WindowsInput.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\obj\Debug\CAPStolower.exe.config
+E:\OneDrive\Documents\Visual Studio 2017\School and misc\CAPStolower 2.0\CAPStolower\obj\Debug\CAPStolower.csproj.CopyComplete
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\CAPStolower.exe.config
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\CAPStolower.exe
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\netstandard.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.AppContext.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Collections.Concurrent.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Collections.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Collections.NonGeneric.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Collections.Specialized.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.ComponentModel.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.ComponentModel.Primitives.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Console.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Data.Common.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Diagnostics.Contracts.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Diagnostics.Debug.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Diagnostics.Process.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Diagnostics.Tools.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Diagnostics.Tracing.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Drawing.Primitives.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Dynamic.Runtime.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Globalization.Calendars.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Globalization.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Globalization.Extensions.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.IO.Compression.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.IO.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.IO.FileSystem.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.IO.IsolatedStorage.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.IO.Pipes.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Linq.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Linq.Expressions.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Linq.Parallel.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Linq.Queryable.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Net.Http.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Net.NameResolution.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Net.NetworkInformation.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Net.Ping.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Net.Primitives.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Net.Requests.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Net.Security.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Net.Sockets.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Net.WebSockets.Client.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Net.WebSockets.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.ObjectModel.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Reflection.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Reflection.Extensions.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Reflection.Primitives.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Resources.Reader.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Resources.ResourceManager.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Resources.Writer.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Runtime.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Runtime.Extensions.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Runtime.Handles.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Runtime.InteropServices.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Runtime.Numerics.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Security.Claims.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Security.Principal.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Security.SecureString.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Text.Encoding.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Text.RegularExpressions.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Threading.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Threading.Overlapped.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Threading.Tasks.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Threading.Thread.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Threading.ThreadPool.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Threading.Timer.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.ValueTuple.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Xml.ReaderWriter.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Xml.XDocument.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Xml.XmlDocument.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Xml.XmlSerializer.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Xml.XPath.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\WindowsInput.dll
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\obj\Debug\CAPStolower.csprojAssemblyReference.cache
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\obj\Debug\CAPStolower.exe.config
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\obj\Debug\CAPStolower.Form1.resources
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\obj\Debug\CAPStolower.Properties.Resources.resources
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\obj\Debug\CAPStolower.csproj.GenerateResource.cache
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\obj\Debug\CAPStolower.csproj.CoreCompileInputs.cache
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\obj\Debug\CAPStolower.csproj.CopyComplete
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\obj\Debug\CAPStolower.exe
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\obj\Debug\CAPStolower.pdb
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\CAPStolower.exe.config
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\CAPStolower.exe
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\CAPStolower.pdb
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\netstandard.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.AppContext.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Collections.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Collections.Specialized.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.ComponentModel.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Console.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Data.Common.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Globalization.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.IO.Compression.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.IO.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.IO.FileSystem.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.IO.Pipes.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Linq.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Linq.Expressions.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Linq.Parallel.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Linq.Queryable.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Net.Http.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Net.NameResolution.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Net.Ping.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Net.Primitives.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Net.Requests.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Net.Security.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Net.Sockets.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Net.WebSockets.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.ObjectModel.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Reflection.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Resources.Reader.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Resources.Writer.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Runtime.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Runtime.Handles.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Security.Claims.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Security.Principal.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Security.SecureString.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Text.Encoding.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Threading.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Threading.Tasks.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Threading.Thread.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Threading.Timer.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.ValueTuple.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Xml.XDocument.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Xml.XPath.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\bin\Debug\WindowsInput.dll
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\obj\Debug\CAPStolower.csprojAssemblyReference.cache
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\obj\Debug\CAPStolower.exe.config
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\obj\Debug\CAPStolower.Form1.resources
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\obj\Debug\CAPStolower.Properties.Resources.resources
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\obj\Debug\CAPStolower.csproj.GenerateResource.cache
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\obj\Debug\CAPStolower.csproj.CoreCompileInputs.cache
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\obj\Debug\CAPStolower.csproj.CopyComplete
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\obj\Debug\CAPStolower.exe
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\CAPStolower 2.0\CAPStolower\obj\Debug\CAPStolower.pdb

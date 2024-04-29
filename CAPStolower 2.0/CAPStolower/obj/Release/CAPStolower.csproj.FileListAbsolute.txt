@@ -1,0 +1,9 @@
+E:\OneDrive\Documents\Visual Studio 2017\Projects\CAPStolower\CAPStolower\bin\Release\CAPStolower.exe.config
+E:\OneDrive\Documents\Visual Studio 2017\Projects\CAPStolower\CAPStolower\bin\Release\CAPStolower.exe
+E:\OneDrive\Documents\Visual Studio 2017\Projects\CAPStolower\CAPStolower\bin\Release\CAPStolower.pdb
+E:\OneDrive\Documents\Visual Studio 2017\Projects\CAPStolower\CAPStolower\obj\Release\CAPStolower.Form1.resources
+E:\OneDrive\Documents\Visual Studio 2017\Projects\CAPStolower\CAPStolower\obj\Release\CAPStolower.Properties.Resources.resources
+E:\OneDrive\Documents\Visual Studio 2017\Projects\CAPStolower\CAPStolower\obj\Release\CAPStolower.csproj.GenerateResource.cache
+E:\OneDrive\Documents\Visual Studio 2017\Projects\CAPStolower\CAPStolower\obj\Release\CAPStolower.csproj.CoreCompileInputs.cache
+E:\OneDrive\Documents\Visual Studio 2017\Projects\CAPStolower\CAPStolower\obj\Release\CAPStolower.exe
+E:\OneDrive\Documents\Visual Studio 2017\Projects\CAPStolower\CAPStolower\obj\Release\CAPStolower.pdb
